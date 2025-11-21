@@ -32,6 +32,12 @@ To alleviate overload on the top staff while maintaining Policy project momentum
 * **Trent Beard (Policy):** Offload work to **Murphy Lin (56.48 FTE)** and **Martin Tran (66.45 FTE)**, who are lower-allocated staff within the Policy department.
 * **Max Baxter (Comms):** Despite Comms having the lowest overall departmental load (**263** FTE), Max Baxter is heavily burdened (**104.72 FTE**). His work should be delegated to **April Quinn** or **Griffin Clarke** to preserve strategic communications capacity.
 
+<img width="341" height="550" alt="image" src="https://github.com/user-attachments/assets/cf5f88ea-a79a-4e9f-aadb-f1e5222f5807" />
+
+<img width="252" height="121" alt="image" src="https://github.com/user-attachments/assets/83f3eaff-931b-4de9-9e06-0d6a73f8f2f4" />
+
+
+
 ### 2. Cross-Timezone Risk Prioritization
 
 The **Operational Risk Index (ORI)**—calculated as Project Risk $\times$ Timezone Constraint—flags tasks most likely to fail due to complexity and cross-border scheduling friction.
