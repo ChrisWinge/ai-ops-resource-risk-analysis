@@ -59,14 +59,12 @@ Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU A
       <td>
         <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/eaffaa00-48f8-49f7-b38c-7b906d0db1e1" />
       </td>
+      <td>
+        <img width="635" height="473" alt="image" src="https://github.com/user-attachments/assets/bdc73176-c631-4159-af45-e400330f93f6" />
+      </td>
     </body>
   </thead>
 </table>
-  
-
-<img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/eaffaa00-48f8-49f7-b38c-7b906d0db1e1" /> <br/>
-
-<img width="635" height="473" alt="image" src="https://github.com/user-attachments/assets/bdc73176-c631-4159-af45-e400330f93f6" />
 
 
 ### 3. Vendor Management & Financial Oversight
