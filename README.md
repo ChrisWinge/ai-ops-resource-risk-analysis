@@ -1,2 +1,59 @@
-<img width="518" height="227" alt="image" src="https://github.com/user-attachments/assets/1d70ecf8-024b-411c-8f95-c0967654c81e" />
+## 💼 Operations Analyst Portfolio Project: Cross-Timezone Resource Management
+
+This project demonstrates proficiency in **data manipulation (Pandas), business analysis, and strategic communication** by simulating the day-to-day operational challenges of a global, mission-driven nonprofit. The goal was to transform raw data into **actionable operational insights** for management.
+
+### 🛠️ Technical Workflow & Data Sources
+
+The project utilized three synthetic, interconnected CSV files to model operational reality, showcasing the ability to join relational data:
+
+| Data File | Purpose | Key Manipulation |
+| :--- | :--- | :--- |
+| `staff_roster.csv` | **Personnel:** Lists staff names, departments, and **ET/CET timezones**. | Merged with tasks using `Staff_ID`. |
+| `project_tasks.csv` | **Core Schedule:** Defines effort (`FTE Days`), risk, and constraints. | **Filtered to only include active tasks** ('In Progress' and 'Blocked') to assess current burden. |
+| `project_costs.csv` | **Financial Data:** Records external costs and vendor transactions. | Aggregated to analyze financial and administrative workload. |
+
+## 🎯 Core Analytical Findings
+
+The analysis was segmented to answer three core questions regarding **Active Workload** (In Progress/Blocked tasks only):
+
+### 1. Resource Utilization & Overload Analysis
+
+This analysis identifies staffing bottlenecks to prevent burnout and ensure timely delivery.
+
+| Metric | Result | Strategic Insight |
+| :--- | :--- | :--- |
+| **Highest Overload** | **Trent Beard (115.01 Active FTE Days)** | Trent Beard, Melany Shaw, and Robert Floyd represent the highest active workload risk. |
+| **Departmental Load** | Policy (**821** FTE Days) vs. Ops (**595** FTE Days) | Policy carries the highest strategic burden, but the Ops department is highly concentrated, with several employees near the top of the individual workload rankings. |
+
+**Actionable Insight: Resource Redistribution**
+
+To alleviate overload on the top staff while maintaining Policy project momentum, the analyst should propose specific task delegation:
+
+* **Trent Beard (Policy):** Offload work to **Murphy Lin (56.48 FTE)** and **Martin Tran (66.45 FTE)**, who are lower-allocated staff within the Policy department.
+* **Max Baxter (Comms):** Despite Comms having the lowest overall departmental load (**263** FTE), Max Baxter is heavily burdened (**104.72 FTE**). His work should be delegated to **April Quinn** or **Griffin Clarke** to preserve strategic communications capacity.
+
+### 2. Cross-Timezone Risk Prioritization
+
+The **Operational Risk Index (ORI)**—calculated as Project Risk $\times$ Timezone Constraint—flags tasks most likely to fail due to complexity and cross-border scheduling friction.
+
+| Department | Total ORI (Risk) | Insight |
+| :--- | :--- | :--- |
+| Policy | **1,975** | Highest risk concentration due to complexity and high dependencies. |
+| Ops | **1,275** | Secondary risk, but critical for supporting the Policy team's highest-risk deliverables. |
+
+**Actionable Insight: Targeted Risk Mitigation**
+
+Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU AI Act Compliance** project. To reduce organizational risk without removing her from the critical team, the analyst must prioritize delegating her specific, lower-priority tasks within that project to **Rober Floyd (35 ORI)** or **Mason Pace (19 ORI)**, who are already embedded in the project but carry a much lighter risk burden. This ensures high-risk projects are supported by staff with preserved capacity.
+
+### 3. Vendor Management & Financial Oversight
+
+This analysis reveals both the **total financial spend** and the **administrative workload** required for vendor management (where Transactions = Administrative Load).
+
+| Vendor/Tool | Total Spend (USD) | Average Spend (USD) | Transactions |
+| :--- | :--- | :--- | :--- |
+| **Coda.io** | $613,079 | $7,129 | **86** |
+| **Legal Firm** | $528,322 | **$8,386** | 63 |
+
+**Actionable Insight:**
+While Legal Fees have the highest average cost, **Coda.io** requires the highest number of transactions **86**, signaling a large **administrative workload** for the Operations team. The analyst should propose consolidating these licenses into a single annual contract to reduce friction.
 
