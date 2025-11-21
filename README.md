@@ -1,2 +1,2 @@
-# ai-ops-resource-risk-analysis
-Operations Analyst portfolio for an international AI Policy nonprofit. Uses multi-file synthetic data to deliver strategic recommendations by analyzing Active FTE Overload, Cross-Timezone (ET/CET) Risk, and vendor administrative burden. Provides actionable insights for resource planning and schedule mitigation.
+<img width="518" height="227" alt="image" src="https://github.com/user-attachments/assets/1d70ecf8-024b-411c-8f95-c0967654c81e" />
+
