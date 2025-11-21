@@ -47,7 +47,7 @@ The **Operational Risk Index (ORI)**—calculated as Project Risk $\times$ Timez
 
 **Actionable Insight: Targeted Risk Mitigation**
 
-Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU AI Act Compliance** project. To reduce organizational risk without removing her from the critical team, the analyst must prioritize delegating her specific, lower-priority tasks within that project to **Rober Floyd (35 ORI)** or **Mason Pace (19 ORI)**, who are already embedded in the project but carry a much lighter risk burden. This ensures high-risk projects are supported by staff with preserved capacity.
+Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU AI Act Compliance** project. To reduce organizational risk without removing her from the critical team, the optimal strategy would be to delegate her specific, lower-priority tasks within that project to **Rober Floyd (35 ORI)** or **Mason Pace (19 ORI)**, who are already embedded in the project but carry a much lighter risk burden. This ensures high-risk projects are supported by staff with preserved capacity.
 
 <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/eaffaa00-48f8-49f7-b38c-7b906d0db1e1" /> <br/>
 
