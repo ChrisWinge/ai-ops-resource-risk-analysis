@@ -32,9 +32,22 @@ To alleviate overload on the top staff while maintaining Policy project momentum
 * **Trent Beard (Policy):** Offload work to **Murphy Lin (56.48 FTE)** and **Martin Tran (66.45 FTE)**, who are lower-allocated staff within the Policy department.
 * **Max Baxter (Comms):** Despite Comms having the lowest overall departmental load (**263** FTE), Max Baxter is heavily burdened (**104.72 FTE**). His work should be delegated to **April Quinn** or **Griffin Clarke** to preserve strategic communications capacity.
 
-<img width="341" height="550" alt="image" src="https://github.com/user-attachments/assets/cf5f88ea-a79a-4e9f-aadb-f1e5222f5807" /> <br/>
-
-<img width="252" height="121" alt="image" src="https://github.com/user-attachments/assets/83f3eaff-931b-4de9-9e06-0d6a73f8f2f4" />
+<table>
+  <thead>
+    <tr>
+      <th scope="col">FTE Workload Days by Department</th>
+      <th scope="col">FTE Workload Days by Employee</th>
+    </tr>
+    <body>
+      <td>
+        <img width="252" height="121" alt="image" src="https://github.com/user-attachments/assets/83f3eaff-931b-4de9-9e06-0d6a73f8f2f4" />
+      </td>
+      <td>
+        <img width="341" height="550" alt="image" src="https://github.com/user-attachments/assets/cf5f88ea-a79a-4e9f-aadb-f1e5222f5807" />
+      </td>
+    </body>
+  </thead>
+</table>
 
 ### 2. Cross-Timezone Risk Prioritization
 
@@ -47,15 +60,19 @@ The **Operational Risk Index (ORI)**—calculated as Project Risk $\times$ Timez
 
 **Actionable Insight: Targeted Risk Mitigation**
 
-Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU AI Act Compliance** project. To reduce organizational risk without removing her from the critical team, the optimal strategy would be to delegate her specific, lower-priority tasks within that project to **Rober Floyd (35 ORI)** or **Mason Pace (19 ORI)**, who are already embedded in the project but carry a much lighter risk burden. This ensures high-risk projects are supported by staff with preserved capacity.
+Melany Shaw's workload is concentrated with a critical **125 ORI** in the **EU AI Act Compliance** project. To reduce organizational risk without removing her from the critical team, the optimal strategy would be to delegate her specific, lower-priority tasks within that project to **Robert Floyd (35 ORI)** or **Mason Pace (19 ORI)**, who are already embedded in the project but carry a much lighter risk burden. This ensures high-risk projects are supported by staff with preserved capacity.
 
 <table>
   <thead>
     <tr>
+      <th scope="col">Risk by Department</th>
       <th scope="col">Risk by Project</th>
       <th scope="col">Heatmap: Project Risk by Employee</th>
     </tr>
     <body>
+      <td>
+        <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/66a36451-77e5-4f6f-a954-98c7f2b0cf0c" />
+      </td>
       <td>
         <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/eaffaa00-48f8-49f7-b38c-7b906d0db1e1" />
       </td>
@@ -75,6 +92,19 @@ This analysis reveals both the **total financial spend** and the **administrativ
 | :--- | :--- | :--- | :--- |
 | **Coda.io** | $613,079 | $7,129 | **86** |
 | **Legal Firm** | $528,322 | **$8,386** | 63 |
+
+<table>
+  <head>
+    <tr>
+      <th scope="col">Vendor Costs</th>
+    </tr>
+    <body>
+      <td>
+        <img width="700" height="301" alt="image" src="https://github.com/user-attachments/assets/47612745-6a74-4bc4-97cd-d903ee70c788" />
+      </td>
+    </body>
+  </head>
+</table>
 
 **Actionable Insight:**
 Actionable Insight: While Legal Fees have the highest average cost, **Coda.io** requires the highest number of transactions (86), signaling a large administrative workload for the Operations team. The optimal vendor strategy is to consolidate these licenses into a single annual contract to minimize administrative friction and save Ops time.
