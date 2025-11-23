@@ -1,0 +1,501 @@
+Cost_ID,Task_ID,Cost_Category,Cost_Amount_USD,Vendor_Tool
+C001,T0133,Software Subscription,3718,T&E Vendor
+C002,T0157,Software Subscription,125,Gemini API
+C003,T0875,Web Content License,9850,Legal Firm
+C004,T0382,External Consultant,3824,Gemini API
+C005,T1046,Travel/Retreat Expense,3558,Coda.io
+C006,T0974,External Consultant,11648,Coda.io
+C007,T0595,Software Subscription,6693,Slack
+C008,T0472,Software Subscription,10659,Zoom
+C009,T0234,Software Subscription,14591,Legal Firm
+C010,T0572,External Consultant,8762,Slack
+C011,T0771,Travel/Retreat Expense,10759,Zoom
+C012,T1186,Software Subscription,7380,WordPress
+C013,T0301,Web Content License,8169,WordPress
+C014,T0306,Travel/Retreat Expense,4846,Zoom
+C015,T0002,Software Subscription,7689,Coda.io
+C016,T0271,Travel/Retreat Expense,9177,Coda.io
+C017,T0421,Web Content License,13317,WordPress
+C018,T1167,External Consultant,14132,Coda.io
+C019,T0700,Software Subscription,7078,Gemini API
+C020,T0864,Web Content License,9167,Coda.io
+C021,T0960,Software Subscription,9233,Zoom
+C022,T0994,Software Subscription,3141,T&E Vendor
+C023,T1010,External Consultant,7865,Zoom
+C024,T0879,External Consultant,5504,Coda.io
+C025,T0692,Travel/Retreat Expense,671,Zoom
+C026,T0867,Web Content License,12441,Legal Firm
+C027,T1061,Web Content License,8896,WordPress
+C028,T0107,External Consultant,12712,T&E Vendor
+C029,T1121,Software Subscription,11821,Legal Firm
+C030,T0281,Travel/Retreat Expense,5080,Legal Firm
+C031,T1134,External Consultant,12652,Coda.io
+C032,T0549,Travel/Retreat Expense,8673,Coda.io
+C033,T0552,Travel/Retreat Expense,1336,Legal Firm
+C034,T0188,Web Content License,2480,Legal Firm
+C035,T0752,Travel/Retreat Expense,7277,Slack
+C036,T0870,Web Content License,13769,Slack
+C037,T0019,Software Subscription,14638,Gemini API
+C038,T0859,Software Subscription,12071,WordPress
+C039,T1285,External Consultant,10397,Legal Firm
+C040,T0985,Software Subscription,1617,Zoom
+C041,T0410,Web Content License,1633,T&E Vendor
+C042,T0484,Travel/Retreat Expense,5987,Slack
+C043,T0624,Travel/Retreat Expense,11586,Coda.io
+C044,T0656,Software Subscription,11732,Legal Firm
+C045,T0768,Web Content License,7959,Zoom
+C046,T0018,Travel/Retreat Expense,3589,T&E Vendor
+C047,T0184,Software Subscription,12237,Zoom
+C048,T0405,Web Content License,4742,Gemini API
+C049,T0799,Web Content License,9162,Zoom
+C050,T1155,Travel/Retreat Expense,2250,Coda.io
+C051,T0479,External Consultant,11524,Slack
+C052,T0008,External Consultant,5419,Zoom
+C053,T0705,Web Content License,11523,T&E Vendor
+C054,T1160,Web Content License,3866,Slack
+C055,T0531,Software Subscription,5060,Gemini API
+C056,T0913,Web Content License,11499,Gemini API
+C057,T0689,Software Subscription,6161,WordPress
+C058,T1035,Software Subscription,12785,Coda.io
+C059,T0553,Software Subscription,5957,Slack
+C060,T0446,Web Content License,4587,Gemini API
+C061,T1138,Web Content License,12118,Gemini API
+C062,T0706,Software Subscription,14541,Slack
+C063,T0196,Travel/Retreat Expense,7850,Zoom
+C064,T0860,Web Content License,9904,T&E Vendor
+C065,T0628,External Consultant,1177,Zoom
+C066,T0981,Travel/Retreat Expense,1400,T&E Vendor
+C067,T0630,External Consultant,10450,Gemini API
+C068,T1189,Web Content License,10563,Gemini API
+C069,T1276,Travel/Retreat Expense,14510,Coda.io
+C070,T0044,Web Content License,6749,Slack
+C071,T0489,Web Content License,7281,Legal Firm
+C072,T0181,Travel/Retreat Expense,8238,Gemini API
+C073,T1101,Web Content License,2629,T&E Vendor
+C074,T0374,Travel/Retreat Expense,3360,T&E Vendor
+C075,T0628,Web Content License,463,Zoom
+C076,T0957,Software Subscription,14674,Zoom
+C077,T0067,External Consultant,13812,Gemini API
+C078,T1116,Software Subscription,945,Gemini API
+C079,T0779,Web Content License,3132,WordPress
+C080,T0651,Web Content License,1427,T&E Vendor
+C081,T1268,Web Content License,11454,Coda.io
+C082,T0341,Software Subscription,8683,Slack
+C083,T0903,Web Content License,3355,Slack
+C084,T0398,Travel/Retreat Expense,5236,Slack
+C085,T0703,External Consultant,7208,T&E Vendor
+C086,T0097,Web Content License,10351,Zoom
+C087,T1229,Web Content License,3337,Coda.io
+C088,T0449,External Consultant,10338,Slack
+C089,T0077,External Consultant,12533,T&E Vendor
+C090,T0896,External Consultant,9597,Legal Firm
+C091,T0549,Software Subscription,5768,Gemini API
+C092,T0798,Software Subscription,6412,WordPress
+C093,T0815,Web Content License,11186,WordPress
+C094,T1022,External Consultant,14605,Slack
+C095,T0135,Web Content License,10324,Zoom
+C096,T0654,Web Content License,9056,WordPress
+C097,T1278,Web Content License,5565,WordPress
+C098,T1279,Software Subscription,598,WordPress
+C099,T0646,External Consultant,11660,WordPress
+C100,T0720,Web Content License,6162,Slack
+C101,T0613,Software Subscription,13553,T&E Vendor
+C102,T0484,Travel/Retreat Expense,3044,Coda.io
+C103,T1070,Travel/Retreat Expense,8052,Coda.io
+C104,T0648,Web Content License,5956,Zoom
+C105,T0792,Web Content License,12096,T&E Vendor
+C106,T0579,External Consultant,12505,Gemini API
+C107,T1028,External Consultant,12752,Legal Firm
+C108,T0001,Web Content License,7938,Coda.io
+C109,T0109,Software Subscription,6177,Legal Firm
+C110,T0460,Web Content License,235,Coda.io
+C111,T0266,External Consultant,9392,Coda.io
+C112,T1162,External Consultant,10163,Zoom
+C113,T0044,Software Subscription,4133,WordPress
+C114,T0886,Web Content License,6800,Zoom
+C115,T0944,External Consultant,4213,Coda.io
+C116,T0983,Web Content License,14278,T&E Vendor
+C117,T0262,External Consultant,12304,WordPress
+C118,T0728,Travel/Retreat Expense,6646,T&E Vendor
+C119,T0633,Travel/Retreat Expense,8496,T&E Vendor
+C120,T0152,Travel/Retreat Expense,4694,T&E Vendor
+C121,T0213,External Consultant,10663,WordPress
+C122,T1016,Software Subscription,12982,T&E Vendor
+C123,T1258,Travel/Retreat Expense,661,WordPress
+C124,T0863,External Consultant,5500,Legal Firm
+C125,T0623,Web Content License,7433,Gemini API
+C126,T0361,Travel/Retreat Expense,3414,Coda.io
+C127,T0320,Software Subscription,4060,Slack
+C128,T0222,Software Subscription,10818,T&E Vendor
+C129,T0210,Software Subscription,2311,Zoom
+C130,T0931,Web Content License,2471,Legal Firm
+C131,T0489,Web Content License,14986,Zoom
+C132,T0601,Software Subscription,7074,Slack
+C133,T0774,Software Subscription,13027,WordPress
+C134,T0878,Software Subscription,14314,Slack
+C135,T0700,Web Content License,2781,Zoom
+C136,T0452,Web Content License,2906,Slack
+C137,T0413,External Consultant,12061,Coda.io
+C138,T0476,Travel/Retreat Expense,2355,Slack
+C139,T0256,Web Content License,12702,T&E Vendor
+C140,T1174,Software Subscription,14739,Coda.io
+C141,T0127,Travel/Retreat Expense,9192,T&E Vendor
+C142,T0392,Web Content License,6482,Gemini API
+C143,T0480,Travel/Retreat Expense,10042,Gemini API
+C144,T0993,External Consultant,4999,Slack
+C145,T0923,Web Content License,11587,Coda.io
+C146,T0402,Software Subscription,3259,Coda.io
+C147,T0274,Software Subscription,5756,Gemini API
+C148,T0845,External Consultant,1552,Slack
+C149,T0139,External Consultant,9535,Legal Firm
+C150,T0103,External Consultant,2422,WordPress
+C151,T1266,External Consultant,9962,WordPress
+C152,T1141,External Consultant,10319,WordPress
+C153,T1238,Web Content License,7197,Coda.io
+C154,T0484,Web Content License,1868,Gemini API
+C155,T0529,Travel/Retreat Expense,6196,WordPress
+C156,T0224,External Consultant,5285,Gemini API
+C157,T1294,Software Subscription,11955,Coda.io
+C158,T1158,Software Subscription,13834,Gemini API
+C159,T0114,External Consultant,10594,Legal Firm
+C160,T0644,External Consultant,14560,Slack
+C161,T0651,External Consultant,1269,Gemini API
+C162,T1256,External Consultant,4810,Gemini API
+C163,T0458,External Consultant,10724,Slack
+C164,T0375,Software Subscription,6690,Coda.io
+C165,T0611,Travel/Retreat Expense,486,Coda.io
+C166,T0207,External Consultant,2530,Gemini API
+C167,T0917,External Consultant,11640,Legal Firm
+C168,T0321,External Consultant,1505,WordPress
+C169,T0093,Web Content License,223,Legal Firm
+C170,T1182,Software Subscription,4097,Slack
+C171,T0872,Software Subscription,6009,Slack
+C172,T0099,Travel/Retreat Expense,11744,T&E Vendor
+C173,T0225,Web Content License,3996,WordPress
+C174,T0852,Web Content License,9916,Gemini API
+C175,T0441,Web Content License,8166,Slack
+C176,T0720,Travel/Retreat Expense,9473,T&E Vendor
+C177,T0585,Travel/Retreat Expense,827,Coda.io
+C178,T0064,Travel/Retreat Expense,7139,Slack
+C179,T0768,Web Content License,12176,Zoom
+C180,T0560,Software Subscription,7815,WordPress
+C181,T0670,Web Content License,3770,T&E Vendor
+C182,T1272,Travel/Retreat Expense,1241,WordPress
+C183,T0368,Web Content License,10667,WordPress
+C184,T0744,External Consultant,4131,Zoom
+C185,T0618,Web Content License,8650,Legal Firm
+C186,T1006,Web Content License,3842,Coda.io
+C187,T1122,Software Subscription,2944,WordPress
+C188,T1292,Software Subscription,12830,Slack
+C189,T1084,Software Subscription,2311,Coda.io
+C190,T0500,External Consultant,1072,Slack
+C191,T1007,Software Subscription,460,Coda.io
+C192,T0411,External Consultant,2732,Gemini API
+C193,T1018,Travel/Retreat Expense,3290,Coda.io
+C194,T1164,Software Subscription,5048,T&E Vendor
+C195,T0464,Web Content License,1724,Slack
+C196,T0702,Web Content License,12220,Slack
+C197,T0163,External Consultant,13999,Gemini API
+C198,T0060,Software Subscription,1856,Coda.io
+C199,T1055,Web Content License,7918,WordPress
+C200,T0333,Travel/Retreat Expense,5219,Slack
+C201,T0076,Software Subscription,14295,Gemini API
+C202,T0317,Travel/Retreat Expense,6126,Zoom
+C203,T0190,Web Content License,8532,Zoom
+C204,T0296,Software Subscription,13053,Coda.io
+C205,T0501,External Consultant,13553,Legal Firm
+C206,T0177,Web Content License,7075,Coda.io
+C207,T0800,Travel/Retreat Expense,1075,Gemini API
+C208,T0806,Software Subscription,14427,Coda.io
+C209,T0860,Travel/Retreat Expense,14466,WordPress
+C210,T0215,Travel/Retreat Expense,4418,WordPress
+C211,T0653,External Consultant,6023,T&E Vendor
+C212,T0597,External Consultant,2413,Gemini API
+C213,T0128,Web Content License,9597,Legal Firm
+C214,T1293,External Consultant,887,Gemini API
+C215,T0551,External Consultant,2528,Gemini API
+C216,T0619,Web Content License,8847,Legal Firm
+C217,T0348,Web Content License,10401,Gemini API
+C218,T0142,Web Content License,13234,Legal Firm
+C219,T1169,Web Content License,6764,Legal Firm
+C220,T0792,Travel/Retreat Expense,13482,Legal Firm
+C221,T0245,Travel/Retreat Expense,10941,Gemini API
+C222,T0703,Web Content License,9851,Gemini API
+C223,T1136,Web Content License,12527,Coda.io
+C224,T0214,Software Subscription,7583,Gemini API
+C225,T0200,Software Subscription,1463,Coda.io
+C226,T0405,Software Subscription,4059,T&E Vendor
+C227,T0421,External Consultant,8881,Zoom
+C228,T0007,Travel/Retreat Expense,1849,Zoom
+C229,T0592,Travel/Retreat Expense,6771,T&E Vendor
+C230,T0286,Software Subscription,640,T&E Vendor
+C231,T0671,Software Subscription,7734,Slack
+C232,T0389,Travel/Retreat Expense,10714,Coda.io
+C233,T0416,External Consultant,8582,Legal Firm
+C234,T0784,Software Subscription,10382,Slack
+C235,T1007,Web Content License,4035,WordPress
+C236,T1174,Software Subscription,4058,Coda.io
+C237,T1015,Travel/Retreat Expense,3959,Gemini API
+C238,T0428,Travel/Retreat Expense,8150,T&E Vendor
+C239,T1005,Software Subscription,9547,Zoom
+C240,T0334,Software Subscription,5431,Coda.io
+C241,T0272,Web Content License,8299,T&E Vendor
+C242,T1067,Web Content License,1757,Coda.io
+C243,T0319,External Consultant,12870,Gemini API
+C244,T0527,External Consultant,6285,Coda.io
+C245,T0760,Web Content License,4528,Gemini API
+C246,T1196,External Consultant,9548,Coda.io
+C247,T0321,External Consultant,7337,WordPress
+C248,T0739,Software Subscription,12242,Zoom
+C249,T1068,Web Content License,1139,Coda.io
+C250,T0454,Software Subscription,2216,T&E Vendor
+C251,T0746,Software Subscription,14488,WordPress
+C252,T0929,External Consultant,8976,Slack
+C253,T0848,Software Subscription,4118,Coda.io
+C254,T0868,Travel/Retreat Expense,13381,Gemini API
+C255,T0774,External Consultant,10089,WordPress
+C256,T0083,Travel/Retreat Expense,7646,Legal Firm
+C257,T0543,External Consultant,1924,Slack
+C258,T0322,Software Subscription,3634,Zoom
+C259,T0786,External Consultant,6770,Coda.io
+C260,T1258,Travel/Retreat Expense,14193,Coda.io
+C261,T0540,External Consultant,14090,WordPress
+C262,T0252,Travel/Retreat Expense,8354,Zoom
+C263,T0836,Web Content License,8552,Legal Firm
+C264,T0449,Software Subscription,3671,Slack
+C265,T1263,Travel/Retreat Expense,3292,T&E Vendor
+C266,T0490,Web Content License,5053,Zoom
+C267,T0464,Software Subscription,13651,Coda.io
+C268,T0314,Web Content License,9780,WordPress
+C269,T1199,Travel/Retreat Expense,9422,Legal Firm
+C270,T1204,Software Subscription,14418,WordPress
+C271,T0385,Web Content License,4375,Slack
+C272,T0295,Travel/Retreat Expense,454,Gemini API
+C273,T1239,Web Content License,5129,Gemini API
+C274,T0986,Software Subscription,2874,Zoom
+C275,T0762,Software Subscription,688,WordPress
+C276,T0769,Software Subscription,14148,T&E Vendor
+C277,T1099,Travel/Retreat Expense,704,T&E Vendor
+C278,T0344,Web Content License,10520,Gemini API
+C279,T0142,Web Content License,8465,Gemini API
+C280,T0718,Travel/Retreat Expense,14789,WordPress
+C281,T1223,Software Subscription,453,Coda.io
+C282,T1195,External Consultant,11582,WordPress
+C283,T0406,Software Subscription,5534,Legal Firm
+C284,T0228,External Consultant,533,Zoom
+C285,T0411,Software Subscription,11244,Slack
+C286,T0952,Travel/Retreat Expense,14717,T&E Vendor
+C287,T0898,External Consultant,8550,WordPress
+C288,T0691,Travel/Retreat Expense,967,Legal Firm
+C289,T0878,External Consultant,10898,Gemini API
+C290,T0787,Web Content License,14440,T&E Vendor
+C291,T0062,External Consultant,11937,T&E Vendor
+C292,T0879,External Consultant,14391,Slack
+C293,T1157,External Consultant,8887,T&E Vendor
+C294,T1213,Web Content License,5864,Legal Firm
+C295,T0356,Travel/Retreat Expense,493,T&E Vendor
+C296,T0071,Web Content License,12723,T&E Vendor
+C297,T0263,External Consultant,10402,WordPress
+C298,T0306,Software Subscription,12156,WordPress
+C299,T0558,Web Content License,12431,Gemini API
+C300,T1248,Software Subscription,10492,Zoom
+C301,T0762,Web Content License,12289,Coda.io
+C302,T0588,Web Content License,12145,Legal Firm
+C303,T0074,External Consultant,13241,Coda.io
+C304,T0142,Travel/Retreat Expense,3854,Coda.io
+C305,T0102,Travel/Retreat Expense,4470,T&E Vendor
+C306,T1089,External Consultant,11721,Gemini API
+C307,T0193,Web Content License,4621,Slack
+C308,T0953,Travel/Retreat Expense,7799,Slack
+C309,T1086,Travel/Retreat Expense,4678,T&E Vendor
+C310,T1265,Travel/Retreat Expense,8505,Gemini API
+C311,T0410,External Consultant,2226,Legal Firm
+C312,T0300,Software Subscription,8430,Coda.io
+C313,T1219,Software Subscription,13337,Zoom
+C314,T0454,Software Subscription,4293,Gemini API
+C315,T0574,Software Subscription,4060,Coda.io
+C316,T0619,Software Subscription,763,Slack
+C317,T0637,Travel/Retreat Expense,14633,Coda.io
+C318,T0301,Travel/Retreat Expense,2932,WordPress
+C319,T0779,Web Content License,14591,WordPress
+C320,T0989,Travel/Retreat Expense,9365,Zoom
+C321,T0202,External Consultant,4674,Legal Firm
+C322,T0674,Web Content License,6471,Coda.io
+C323,T0302,Travel/Retreat Expense,12314,WordPress
+C324,T0337,Web Content License,7724,Legal Firm
+C325,T0032,Web Content License,14957,Gemini API
+C326,T1122,Software Subscription,6392,Gemini API
+C327,T0773,Web Content License,5277,WordPress
+C328,T1215,Travel/Retreat Expense,8453,Legal Firm
+C329,T1072,Software Subscription,7106,Legal Firm
+C330,T1274,Travel/Retreat Expense,9792,WordPress
+C331,T1250,Software Subscription,3278,T&E Vendor
+C332,T1296,Travel/Retreat Expense,5646,Slack
+C333,T0665,Software Subscription,4590,Legal Firm
+C334,T0328,Software Subscription,4996,Gemini API
+C335,T0797,External Consultant,285,T&E Vendor
+C336,T1204,Travel/Retreat Expense,4753,Coda.io
+C337,T0814,Web Content License,2080,T&E Vendor
+C338,T0665,Software Subscription,4641,WordPress
+C339,T0746,Travel/Retreat Expense,7908,T&E Vendor
+C340,T1047,Software Subscription,12280,Slack
+C341,T0930,External Consultant,929,WordPress
+C342,T0963,External Consultant,3619,Zoom
+C343,T1269,External Consultant,14522,Coda.io
+C344,T1184,External Consultant,13660,Gemini API
+C345,T0373,Web Content License,8108,Zoom
+C346,T0285,Web Content License,11803,T&E Vendor
+C347,T0521,Software Subscription,11620,Legal Firm
+C348,T0697,Travel/Retreat Expense,11640,T&E Vendor
+C349,T0807,External Consultant,6009,Gemini API
+C350,T0647,External Consultant,10777,Gemini API
+C351,T0136,Web Content License,12903,Legal Firm
+C352,T0096,Web Content License,13988,Zoom
+C353,T1143,External Consultant,13334,Zoom
+C354,T0274,Travel/Retreat Expense,1325,Legal Firm
+C355,T0878,Software Subscription,13986,Slack
+C356,T0850,Software Subscription,5874,Coda.io
+C357,T1201,Software Subscription,13143,WordPress
+C358,T0784,Software Subscription,2944,Zoom
+C359,T1162,Travel/Retreat Expense,7447,Coda.io
+C360,T0132,Travel/Retreat Expense,2833,WordPress
+C361,T1068,Travel/Retreat Expense,4520,T&E Vendor
+C362,T1147,Web Content License,4096,WordPress
+C363,T1160,External Consultant,10962,Zoom
+C364,T0373,Travel/Retreat Expense,13074,Slack
+C365,T1150,Software Subscription,9790,Slack
+C366,T0808,Travel/Retreat Expense,1788,Coda.io
+C367,T0744,External Consultant,14387,T&E Vendor
+C368,T0051,Web Content License,2547,Coda.io
+C369,T1161,Software Subscription,967,Legal Firm
+C370,T1182,Web Content License,12604,Slack
+C371,T0056,Travel/Retreat Expense,7052,Coda.io
+C372,T0744,Software Subscription,11300,Legal Firm
+C373,T0428,Software Subscription,11816,T&E Vendor
+C374,T0443,Travel/Retreat Expense,13388,Gemini API
+C375,T0326,Travel/Retreat Expense,6184,WordPress
+C376,T0640,External Consultant,13319,Coda.io
+C377,T0829,Travel/Retreat Expense,10304,Legal Firm
+C378,T0080,Travel/Retreat Expense,8531,Slack
+C379,T0474,Travel/Retreat Expense,5405,WordPress
+C380,T0377,Software Subscription,8339,Coda.io
+C381,T0919,External Consultant,4149,Slack
+C382,T0333,Software Subscription,3557,Gemini API
+C383,T1199,Travel/Retreat Expense,11571,WordPress
+C384,T0441,External Consultant,3328,Zoom
+C385,T0126,Travel/Retreat Expense,1348,Slack
+C386,T0219,Software Subscription,1267,Zoom
+C387,T0948,Software Subscription,3590,T&E Vendor
+C388,T0278,Travel/Retreat Expense,13262,Coda.io
+C389,T0595,External Consultant,1997,Gemini API
+C390,T0935,Software Subscription,11828,Legal Firm
+C391,T0141,Travel/Retreat Expense,2279,Coda.io
+C392,T0846,Web Content License,13012,Slack
+C393,T1008,Travel/Retreat Expense,6055,Zoom
+C394,T0877,Travel/Retreat Expense,10262,Zoom
+C395,T0110,External Consultant,12988,WordPress
+C396,T1076,Travel/Retreat Expense,2820,Coda.io
+C397,T0613,Web Content License,10673,Coda.io
+C398,T0713,Travel/Retreat Expense,2043,Slack
+C399,T1223,Web Content License,11438,Zoom
+C400,T0796,Software Subscription,6012,Slack
+C401,T0729,Travel/Retreat Expense,11775,Slack
+C402,T1070,External Consultant,7786,T&E Vendor
+C403,T0505,Travel/Retreat Expense,3796,Zoom
+C404,T1041,Web Content License,14471,Slack
+C405,T0315,Web Content License,2925,Zoom
+C406,T0077,External Consultant,14036,Slack
+C407,T0978,Web Content License,10119,Legal Firm
+C408,T0899,Travel/Retreat Expense,8514,Slack
+C409,T1189,Web Content License,1846,Slack
+C410,T1048,Travel/Retreat Expense,629,Gemini API
+C411,T0712,Travel/Retreat Expense,6484,Legal Firm
+C412,T1059,Web Content License,8425,Coda.io
+C413,T0854,External Consultant,12095,Zoom
+C414,T1162,Software Subscription,4586,Gemini API
+C415,T0709,External Consultant,201,WordPress
+C416,T0265,Software Subscription,14428,Legal Firm
+C417,T0333,External Consultant,3823,Gemini API
+C418,T0188,Travel/Retreat Expense,2828,Coda.io
+C419,T1087,Travel/Retreat Expense,2645,Slack
+C420,T0820,Web Content License,2658,T&E Vendor
+C421,T1195,Software Subscription,6946,Coda.io
+C422,T0299,Software Subscription,11333,Legal Firm
+C423,T0201,Web Content License,10292,T&E Vendor
+C424,T1159,External Consultant,1048,Slack
+C425,T0272,Web Content License,9860,Coda.io
+C426,T0535,External Consultant,5036,WordPress
+C427,T1111,Web Content License,2153,Zoom
+C428,T0031,Software Subscription,11297,Zoom
+C429,T1145,Software Subscription,293,Legal Firm
+C430,T0069,External Consultant,9033,Gemini API
+C431,T0883,Software Subscription,7404,Slack
+C432,T0961,Software Subscription,12198,Slack
+C433,T0827,Software Subscription,3059,Zoom
+C434,T0924,Software Subscription,12860,Coda.io
+C435,T1170,Travel/Retreat Expense,10555,Slack
+C436,T0984,Web Content License,8274,WordPress
+C437,T0481,Web Content License,11712,WordPress
+C438,T1287,Travel/Retreat Expense,3023,Slack
+C439,T0293,Software Subscription,11546,Slack
+C440,T0086,Web Content License,3339,Zoom
+C441,T1040,Web Content License,3965,Legal Firm
+C442,T0728,Web Content License,8329,Zoom
+C443,T0628,External Consultant,9990,Legal Firm
+C444,T0118,Travel/Retreat Expense,4666,WordPress
+C445,T0270,External Consultant,6695,Legal Firm
+C446,T0979,External Consultant,12318,Zoom
+C447,T0855,Travel/Retreat Expense,5709,Slack
+C448,T0162,Web Content License,3313,Legal Firm
+C449,T0700,External Consultant,5208,Zoom
+C450,T1128,Web Content License,1883,WordPress
+C451,T0167,External Consultant,10258,T&E Vendor
+C452,T0300,Web Content License,8394,Legal Firm
+C453,T0028,Software Subscription,5930,WordPress
+C454,T0562,Software Subscription,5931,WordPress
+C455,T0883,Software Subscription,141,Coda.io
+C456,T0156,Travel/Retreat Expense,11286,T&E Vendor
+C457,T1145,Software Subscription,11510,Legal Firm
+C458,T0652,External Consultant,6309,Zoom
+C459,T0821,Web Content License,11282,Legal Firm
+C460,T0561,Web Content License,12580,Legal Firm
+C461,T1188,Web Content License,11661,T&E Vendor
+C462,T1086,Web Content License,1161,Gemini API
+C463,T0312,External Consultant,10841,WordPress
+C464,T0376,Web Content License,9968,WordPress
+C465,T0150,External Consultant,3789,WordPress
+C466,T0585,External Consultant,7695,WordPress
+C467,T0581,Web Content License,6907,T&E Vendor
+C468,T0977,Web Content License,14787,Zoom
+C469,T0177,Web Content License,4097,Slack
+C470,T0354,External Consultant,425,Coda.io
+C471,T0514,Travel/Retreat Expense,7305,Gemini API
+C472,T0309,External Consultant,1220,Gemini API
+C473,T0119,Travel/Retreat Expense,207,WordPress
+C474,T0767,Web Content License,10970,WordPress
+C475,T0996,External Consultant,6394,Coda.io
+C476,T0973,Web Content License,5293,WordPress
+C477,T0916,Travel/Retreat Expense,7324,Slack
+C478,T0478,Travel/Retreat Expense,8626,Gemini API
+C479,T0587,External Consultant,14330,Legal Firm
+C480,T0351,External Consultant,2139,Coda.io
+C481,T0195,External Consultant,903,Gemini API
+C482,T1211,External Consultant,10140,Zoom
+C483,T0496,Software Subscription,866,Gemini API
+C484,T0515,Software Subscription,13665,Coda.io
+C485,T0696,Web Content License,13796,Slack
+C486,T0273,Travel/Retreat Expense,3627,T&E Vendor
+C487,T0880,Travel/Retreat Expense,2406,Zoom
+C488,T0052,Web Content License,11121,Legal Firm
+C489,T0263,Web Content License,1588,WordPress
+C490,T0133,Web Content License,4229,Coda.io
+C491,T0994,Software Subscription,11858,Zoom
+C492,T1249,Web Content License,2473,Coda.io
+C493,T0310,Travel/Retreat Expense,9128,Legal Firm
+C494,T0016,Web Content License,3409,Coda.io
+C495,T0195,External Consultant,6934,Gemini API
+C496,T0303,Travel/Retreat Expense,14412,Gemini API
+C497,T1072,Travel/Retreat Expense,5835,Zoom
+C498,T1145,Travel/Retreat Expense,11904,Slack
+C499,T0832,Software Subscription,4934,T&E Vendor
+C500,T0562,Software Subscription,13877,Zoom
